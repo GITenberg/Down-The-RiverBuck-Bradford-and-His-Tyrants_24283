@@ -1,0 +1,36 @@
+_repo: Down-The-RiverBuck-Bradford-and-His-Tyrants_24283
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24283-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2008-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children with disabilities -- Juvenile fiction'
+- !lcsh 'Cruelty -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Mississippi River -- Juvenile fiction'
+- !lcc 'PZ'
+title: Down the River; Or, Buck Bradford and His Tyrants
+url: http://www.gutenberg.org/ebooks/24283
